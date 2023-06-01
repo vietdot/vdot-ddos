@@ -1,4 +1,4 @@
-# Something about Viet-DDOS
+# Viet-DDOS
 
 Viet-DDOS is a DDos tool written in NodeJS. 
 Launched on June 1, 2023.
@@ -6,7 +6,7 @@ Launched on June 1, 2023.
 ### <a id="prerequisites"></a> 💻 〢 Prerequisites
 
 -   Windows 7/10/11
--   **[NodeJS](https://nodejs.org/en**
+-   **[NodeJS](https://nodejs.org/en)**
 
 
 ### <a id="warning"></a> ⚠️ Warning
