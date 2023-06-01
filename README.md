@@ -1,7 +1,7 @@
 # Viet-DDOS
 
-Viet-DDOS is a DDos tool written in NodeJS. 
-Launched on June 1, 2023.
+###Viet-DDOS is a DDos tool written in NodeJS. 
+###Launched on June 1, 2023.
 
 ### <a id="prerequisites"></a> 💻 〢 Prerequisites
 
@@ -18,7 +18,7 @@ Launched on June 1, 2023.
 
 ```sh
 node vietddos.js <host> <threads> <time>
-example : node viet ddos.js https://pornhub.com 150 60
+example : node vietddos.js https://pornhub.com 150 60
 ```
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
