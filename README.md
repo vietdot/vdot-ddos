@@ -14,7 +14,7 @@
 * After running the Tool, the machine will eat Memory and CPU a lot, so it can make your device LAG !
 * Useful tips: Should use Google Cloudshell, VPS, ...
 
-### <a id="command"></a> ⚠️ Command
+### <a id="command"></a> 🤡 Command
 
 ```sh
 node vietddos.js <host> <threads> <time>
@@ -22,7 +22,7 @@ example : node vietddos.js https://pornhub.com 150 60
 ```
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
--   To Report An Error Make An **[Issue](https://github.com/DamagingRose/Rose-RAT/issues)**
+-   To Report An Error Make An **[Issue](https://github.com/vietcybersec/Viet-DDOS/issues)**
 -   Or Dm My Facebook Account **[My Facebook](https://www.facebook.com/profile.php?id=100085926120267)**
 
 ## 🧾 <a id="lisence"></a> License
