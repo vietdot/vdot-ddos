@@ -1,6 +1,5 @@
 # Viet-DDOS
 
-### Viet-DDOS is a DDos tool written with Java. 
 ### Launched on June 1, 2023.
 
 ### <a id="prerequisites"></a> 💻 〢 Prerequisites
