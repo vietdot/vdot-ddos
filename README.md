@@ -17,12 +17,12 @@
 
 ```sh
 node vietddos.js <host> <threads> <time>
-example : node vietddos.js https://pornhub.com 150 60
+example : node VietDDOS.js https://pornhub.com 150 60
 ```
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
--   To Report An Error Make An **[Issue](https://github.com/vietcybersec/Viet-DDOS/issues)**
--   Or Dm My Facebook Account **[My Facebook](https://www.facebook.com/profile.php?id=100085926120267)**
+-   To Report An Error Make An **[ Issue ](https://github.com/vietcybersec/Viet-DDOS/issues)**
+-   DM my Facebook Account in Bio**[ Facebook ](https://www.facebook.com/profile.php?id=100085926120267)**
 
 ## 🧾 <a id="lisence"></a> License
 
