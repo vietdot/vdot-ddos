@@ -22,7 +22,7 @@ example : node VietDDOS.js https://pornhub.com 150 60
 ## <a id="bugsorerrors"></a> ⚠️ Bugs Or Errors?
 
 -   To Report An Error Make An **[ Issue ](https://github.com/vietcybersec/Viet-DDOS/issues)**
--   DM my Facebook Account in Bio**[ Facebook ](https://www.facebook.com/profile.php?id=100085926120267)**
+-   DM my Facebook Account in Bio
 
 ## 🧾 <a id="lisence"></a> License
 
